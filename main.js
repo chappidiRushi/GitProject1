@@ -80,3 +80,9 @@ window.onscroll =(e)=>{
 
 
 
+function refresh(){
+    
+  var body=  document.documentElement;
+  body.scrollTop=00;
+  window.location.reload();
+}
