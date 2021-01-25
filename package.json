@@ -1,0 +1,19 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "just creating some random color pallets",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chappidiRushi/GitProject1.git"
+  },
+  "author": "rishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chappidiRushi/GitProject1/issues"
+  },
+  "homepage": "https://github.com/chappidiRushi/GitProject1#readme"
+}
