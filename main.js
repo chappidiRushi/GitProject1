@@ -56,7 +56,7 @@ function cliptest() {
             let mainElement = e.target;
             let childElement = mainElement.children[1];
             let text = childElement.innerHTML;
-            window.alert("color succesfully copied to clipboard "+text);
+           // window.alert("color succesfully copied to clipboard "+text);
             let aux = document.createElement('input');
             aux.setAttribute('value',text);
             let body = document.querySelector('body');
