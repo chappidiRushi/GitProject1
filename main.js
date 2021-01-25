@@ -75,6 +75,7 @@ window.onscroll =(e)=>{
     //console.log(window.pageYOffset, e.target.body.clientHeight);
     if (ch>90) {
     createElements(100);
+    cliptest();
     }
 }
 
